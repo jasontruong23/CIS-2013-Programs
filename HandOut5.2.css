@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+     background-image: url("A-Plus.jpg");
+     background-repeat: repeat-10;
+}
+
+#content {
+    border-radius: 40px;
+    text-align:center;
+    height: 500px;
+    width: 800px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: teal;
+    border: 5px solid #000000;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
