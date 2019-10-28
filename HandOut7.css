@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("Geo.jpg");
+    background-repeat: repeat-5;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #FFFFFF;
+    border: 1px solid #ec0d97;
+    border-radius:20px;
+    border-width:5px;
+
+    
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: pink;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 100px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
